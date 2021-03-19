@@ -1,0 +1,11 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 30px;
+}
+.container p {
+  font-style: italic;
+  color: #888;
+}
