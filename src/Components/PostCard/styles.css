@@ -1,4 +1,3 @@
-
 .post {
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0,0,0,0.2);
@@ -8,7 +7,7 @@
   transform: scale(1.05);
 }
 .post-content {
-  padding: 30px;
+  padding: 10px 20px;
 }
 .post img {
   max-width: 100%;
